@@ -1,0 +1,11 @@
+.elementor-sticky--effects {
+background: #384341!important; /* change the background color here*/
+}
+
+.elementor-sticky--effects .sticky-menu-items ul li a /* change the menu text color here*/ {
+color: #fff!important;
+}
+
+.elementor-sticky--effects, .sticky-menu-items ul li a {
+transition: .5s all ease-in-out;
+}
